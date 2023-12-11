@@ -1,3 +1,0 @@
-﻿  Day01.cpp
-C:\Users\Greattech\source\repos\AdventOfCode\Day01.cpp(75,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-  AdventOfCode.vcxproj -> C:\Users\Greattech\source\repos\AdventOfCode\x64\Debug\AdventOfCode.exe
